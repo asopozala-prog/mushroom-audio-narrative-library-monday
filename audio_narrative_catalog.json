@@ -736,6 +736,157 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the_monday_morning_delivery_trick",
+      "title": "The Monday Morning Delivery Trick",
+      "description": "On Monday morning, a delivery worker arrives at an apartment building with a package and a clever plan to avoid climbing the stairs. He rings the receptionist's bell and begins shouting through the stairwell, demanding to know where she is and which floor she occupies. She opens her door and clearly answers, \"Third floor!\" But instead of coming upstairs, he continues calling loudly, letting his voice echo through the entire building. He knows that most residents would rather come downstairs than endure the embarrassment of having everyone listen to their delivery conversation. His little Monday morning performance turns an ordinary package delivery into a theatrical negotiation between human convenience, social pressure, and three flights of stairs.",
+      "scenes": [
+        {
+          "id": "the_monday_morning_delivery_trick/track_01_batch_story/5a51765ba2447388",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "On Monday morning, a delivery worker arrives at an apartment building with a package and a clever plan to avoid climbing the stairs. He rings the receptionist's bell and begins shouting through the stairwell, demanding to know where she is and which floor she occupies. She opens her door and clearly answers, \"Third floor!\" But instead of coming upstairs, he continues calling loudly, letting his voice echo through the entire building. He knows that most residents would rather come downstairs than endure the embarrassment of having everyone listen to their delivery conversation. His little Monday morning performance turns an ordinary package delivery into a theatrical negotiation between human convenience, social pressure, and three flights of stairs.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_01_batch_story/c6e5c414-e4e1-e937-352e-2e84d119e547.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_01_batch_story/c6e5c414-e4e1-e937-352e-2e84d119e547.flac"
+                }
+              ],
+              "filename": "c6e5c414-e4e1-e937-352e-2e84d119e547"
+            }
+          ]
+        },
+        {
+          "id": "the_monday_morning_delivery_trick/track_02_monday_morning_delivery/9f234bb88ff84649",
+          "title": "Track 02 Monday Morning Delivery",
+          "order": 2,
+          "prompt": "Playful instrumental swing jazz, 112 BPM, lively tenor saxophone, walking upright bass and crisp jazz drums. Bouncing rhythmic groove, cheeky ascending melody, bright blues harmonies, energetic vintage comedy atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_02_monday_morning_delivery/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_02_monday_morning_delivery/3362041f-0577-00ca-6244-541b11a07d5e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_02_monday_morning_delivery/3362041f-0577-00ca-6244-541b11a07d5e.flac"
+                }
+              ],
+              "filename": "3362041f-0577-00ca-6244-541b11a07d5e"
+            }
+          ]
+        },
+        {
+          "id": "the_monday_morning_delivery_trick/track_03_where_are_you_which_floor/f112c6e843ac68f6",
+          "title": "Track 03 Where Are You Which Floor",
+          "order": 3,
+          "prompt": "Comical instrumental bebop jazz, 132 BPM, expressive alto saxophone, rhythmic piano, upright bass and lively drums. Loud musical call-and-response phrases, exaggerated ascending motifs, sharp syncopated accents, humorous restless energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_03_where_are_you_which_floor/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_03_where_are_you_which_floor/69da386a-8a40-da2e-61d3-28acd99befc2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_03_where_are_you_which_floor/69da386a-8a40-da2e-61d3-28acd99befc2.flac"
+                }
+              ],
+              "filename": "69da386a-8a40-da2e-61d3-28acd99befc2"
+            }
+          ]
+        },
+        {
+          "id": "the_monday_morning_delivery_trick/track_04_the_third_floor_sir/d26eca6eaf604b29",
+          "title": "Track 04 The Third Floor Sir",
+          "order": 4,
+          "prompt": "Whimsical instrumental chamber music, 96 BPM, expressive clarinet, pizzicato violins, warm cello and light piano. Short questioning motifs answered by firm descending phrases, precise rhythmic pulse, playful harmonic turns, delicate theatrical character, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_04_the_third_floor_sir/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_04_the_third_floor_sir/1e18f68f-9e02-55d1-2fc3-618e79407939.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_04_the_third_floor_sir/1e18f68f-9e02-55d1-2fc3-618e79407939.flac"
+                }
+              ],
+              "filename": "1e18f68f-9e02-55d1-2fc3-618e79407939"
+            }
+          ]
+        },
+        {
+          "id": "the_monday_morning_delivery_trick/track_05_the_whole_staircase_is_listening/0a426fec2cf3a866",
+          "title": "Track 05 The Whole Staircase Is Listening",
+          "order": 5,
+          "prompt": "Mischievous instrumental swing jazz, 120 BPM, bold trombone, bright clarinet, walking double bass and crisp brushed drums. Repeated brassy melodic calls, playful pauses, lively syncopation, humorous escalating dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_05_the_whole_staircase_is_listening/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_05_the_whole_staircase_is_listening/5865f7c0-d220-e47f-1958-a8f94f0e9e8c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_05_the_whole_staircase_is_listening/5865f7c0-d220-e47f-1958-a8f94f0e9e8c.flac"
+                }
+              ],
+              "filename": "5865f7c0-d220-e47f-1958-a8f94f0e9e8c"
+            }
+          ]
+        },
+        {
+          "id": "the_monday_morning_delivery_trick/track_06_three_floors_saved_by_shouting/c1f9e43de5de982b",
+          "title": "Track 06 Three Floors Saved By Shouting",
+          "order": 6,
+          "prompt": "Cheerful instrumental vintage comedy jazz, 124 BPM, jaunty tenor saxophone, plucked upright bass, stride piano and swinging drums. Confident repeating melody, playful chromatic flourishes, bouncing rhythmic accents, triumphant comic ending, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_b5acbb54a9d44878/track_06_three_floors_saved_by_shouting/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794821046.7244594,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_06_three_floors_saved_by_shouting/5cf5a6df-8f22-393c-a735-419bece8300e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_b5acbb54a9d44878/track_06_three_floors_saved_by_shouting/5cf5a6df-8f22-393c-a735-419bece8300e.flac"
+                }
+              ],
+              "filename": "5cf5a6df-8f22-393c-a735-419bece8300e"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
