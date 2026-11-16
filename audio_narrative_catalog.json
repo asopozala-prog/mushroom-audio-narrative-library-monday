@@ -763,6 +763,22 @@
                 }
               ],
               "filename": "c6e5c414-e4e1-e937-352e-2e84d119e547"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_01_batch_story/1980055c-4e6e-c3e2-63b1-0369da3fc6a5.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_01_batch_story/1980055c-4e6e-c3e2-63b1-0369da3fc6a5.flac"
+                }
+              ],
+              "filename": "1980055c-4e6e-c3e2-63b1-0369da3fc6a5"
             }
           ]
         },
@@ -787,6 +803,22 @@
                 }
               ],
               "filename": "3362041f-0577-00ca-6244-541b11a07d5e"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_02_monday_morning_delivery/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_02_monday_morning_delivery/1288ac14-9c2a-ed3a-3736-d8765f408781.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_02_monday_morning_delivery/1288ac14-9c2a-ed3a-3736-d8765f408781.flac"
+                }
+              ],
+              "filename": "1288ac14-9c2a-ed3a-3736-d8765f408781"
             }
           ]
         },
@@ -811,6 +843,22 @@
                 }
               ],
               "filename": "69da386a-8a40-da2e-61d3-28acd99befc2"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_03_where_are_you_which_floor/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_03_where_are_you_which_floor/a2865ec0-f03a-0026-80fa-645b6939d215.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_03_where_are_you_which_floor/a2865ec0-f03a-0026-80fa-645b6939d215.flac"
+                }
+              ],
+              "filename": "a2865ec0-f03a-0026-80fa-645b6939d215"
             }
           ]
         },
@@ -835,6 +883,22 @@
                 }
               ],
               "filename": "1e18f68f-9e02-55d1-2fc3-618e79407939"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_04_the_third_floor_sir/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_04_the_third_floor_sir/e194595d-db4e-613d-0108-6515f2b6796a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_04_the_third_floor_sir/e194595d-db4e-613d-0108-6515f2b6796a.flac"
+                }
+              ],
+              "filename": "e194595d-db4e-613d-0108-6515f2b6796a"
             }
           ]
         },
@@ -859,6 +923,22 @@
                 }
               ],
               "filename": "5865f7c0-d220-e47f-1958-a8f94f0e9e8c"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_05_the_whole_staircase_is_listening/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_05_the_whole_staircase_is_listening/5bb10cf7-3a94-16e2-79cc-9736cf82cb60.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_05_the_whole_staircase_is_listening/5bb10cf7-3a94-16e2-79cc-9736cf82cb60.flac"
+                }
+              ],
+              "filename": "5bb10cf7-3a94-16e2-79cc-9736cf82cb60"
             }
           ]
         },
@@ -883,6 +963,22 @@
                 }
               ],
               "filename": "5cf5a6df-8f22-393c-a735-419bece8300e"
+            },
+            {
+              "id": "studio_batch_5ed2401c29454f76/track_06_three_floors_saved_by_shouting/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794823882.85209,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_06_three_floors_saved_by_shouting/080d1086-5148-f236-678c-173ce4b569e6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_5ed2401c29454f76/track_06_three_floors_saved_by_shouting/080d1086-5148-f236-678c-173ce4b569e6.flac"
+                }
+              ],
+              "filename": "080d1086-5148-f236-678c-173ce4b569e6"
             }
           ]
         }
