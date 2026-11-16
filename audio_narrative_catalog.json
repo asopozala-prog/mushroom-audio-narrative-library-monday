@@ -1,0 +1,741 @@
+{
+  "schema": "mushroom.audio-narrative.catalog",
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "beyond_the_human_depth_record",
+      "title": "Beyond The Human Depth Record",
+      "description": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+      "scenes": [
+        {
+          "id": "beyond_the_human_depth_record/track_01_batch_story/15579910c5cef6fa",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/a8cc6c83-4b00-7953-e392-1d8e8528f6b4.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/a8cc6c83-4b00-7953-e392-1d8e8528f6b4.flac"
+                }
+              ],
+              "filename": "a8cc6c83-4b00-7953-e392-1d8e8528f6b4"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/ece64ac3-c870-d816-480f-0b4213efc9e3.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/ece64ac3-c870-d816-480f-0b4213efc9e3.flac"
+                }
+              ],
+              "filename": "ece64ac3-c870-d816-480f-0b4213efc9e3"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/8045dd09-33bb-0ba9-4f83-18557154fb01.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_01_batch_story/8045dd09-33bb-0ba9-4f83-18557154fb01.flac"
+                }
+              ],
+              "filename": "8045dd09-33bb-0ba9-4f83-18557154fb01"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_02_the_human_desire_to_go_deeper/f2976b044c24030d",
+          "title": "Track 02 The Human Desire To Go Deeper",
+          "order": 2,
+          "prompt": "Powerful instrumental contemporary classical music, 82 BPM, expressive solo violin, deep cellos and full string orchestra. Broad ascending melody, determined rhythmic pulse, rich minor harmonies, gradual orchestral crescendo, noble restless energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/443f1bfd-cdc3-93a4-dc4a-69492a792b90.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/443f1bfd-cdc3-93a4-dc4a-69492a792b90.flac"
+                }
+              ],
+              "filename": "443f1bfd-cdc3-93a4-dc4a-69492a792b90"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/d2620769-bafc-7479-8e45-0212dfc13238.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/d2620769-bafc-7479-8e45-0212dfc13238.flac"
+                }
+              ],
+              "filename": "d2620769-bafc-7479-8e45-0212dfc13238"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/c2b52424-9c07-a72d-bbff-ff2520b37949.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_02_the_human_desire_to_go_deeper/c2b52424-9c07-a72d-bbff-ff2520b37949.flac"
+                }
+              ],
+              "filename": "c2b52424-9c07-a72d-bbff-ff2520b37949"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_03_years_of_preparation/ac2f77fb00ae32ac",
+          "title": "Track 03 Years Of Preparation",
+          "order": 3,
+          "prompt": "Instrumental minimalist classical music, 96 BPM, precise piano ostinato, rhythmic pizzicato violins and warm cellos. Repeating sixteenth-note patterns, disciplined steady pulse, gradually evolving harmonies, controlled dynamics, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_03_years_of_preparation/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/060a4db9-1e50-a002-5cc6-a2a33b4935ff.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/060a4db9-1e50-a002-5cc6-a2a33b4935ff.flac"
+                }
+              ],
+              "filename": "060a4db9-1e50-a002-5cc6-a2a33b4935ff"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_03_years_of_preparation/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/9c757de2-664e-b8ad-7604-eb44d318664e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/9c757de2-664e-b8ad-7604-eb44d318664e.flac"
+                }
+              ],
+              "filename": "9c757de2-664e-b8ad-7604-eb44d318664e"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_03_years_of_preparation/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/5a5eb160-a254-19e0-c218-cb2bdda1c153.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_03_years_of_preparation/5a5eb160-a254-19e0-c218-cb2bdda1c153.flac"
+                }
+              ],
+              "filename": "5a5eb160-a254-19e0-c218-cb2bdda1c153"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_04_the_record_to_be_broken/30ac88f686551ff1",
+          "title": "Track 04 The Record To Be Broken",
+          "order": 4,
+          "prompt": "Dramatic instrumental orchestral music, 108 BPM, powerful low strings, urgent violins and resonant French horns. Driving rhythmic ostinato, bold ascending phrases, tense minor harmonies, strong controlled crescendos, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_04_the_record_to_be_broken/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/ba59b71a-eb3c-eb87-9abc-de67ddf9475f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/ba59b71a-eb3c-eb87-9abc-de67ddf9475f.flac"
+                }
+              ],
+              "filename": "ba59b71a-eb3c-eb87-9abc-de67ddf9475f"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_04_the_record_to_be_broken/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/fd7168e0-4fbc-1b7c-1a19-7996da8a2261.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/fd7168e0-4fbc-1b7c-1a19-7996da8a2261.flac"
+                }
+              ],
+              "filename": "fd7168e0-4fbc-1b7c-1a19-7996da8a2261"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_04_the_record_to_be_broken/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/293960f1-c350-644c-26e4-a22d6adb84b9.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_04_the_record_to_be_broken/293960f1-c350-644c-26e4-a22d6adb84b9.flac"
+                }
+              ],
+              "filename": "293960f1-c350-644c-26e4-a22d6adb84b9"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_05_the_last_breath_of_air/2f5e983470b56d0b",
+          "title": "Track 05 The Last Breath Of Air",
+          "order": 5,
+          "prompt": "Intimate instrumental contemporary chamber music, 60 BPM, expressive solo cello, delicate piano and sustained viola. Slow measured pulse, descending minor-key melody, suspended harmonies, restrained tension, natural acoustic sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_05_the_last_breath_of_air/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/a074c931-dfcf-bc86-4b85-e050a8678395.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/a074c931-dfcf-bc86-4b85-e050a8678395.flac"
+                }
+              ],
+              "filename": "a074c931-dfcf-bc86-4b85-e050a8678395"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_05_the_last_breath_of_air/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/c493a1b3-d0b1-5e10-a5d5-d74774e6f0a2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/c493a1b3-d0b1-5e10-a5d5-d74774e6f0a2.flac"
+                }
+              ],
+              "filename": "c493a1b3-d0b1-5e10-a5d5-d74774e6f0a2"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_05_the_last_breath_of_air/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/91983438-5342-2299-8afa-8a79b2700ca2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_05_the_last_breath_of_air/91983438-5342-2299-8afa-8a79b2700ca2.flac"
+                }
+              ],
+              "filename": "91983438-5342-2299-8afa-8a79b2700ca2"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_06_the_descent_begins/af5244b2d5026c27",
+          "title": "Track 06 The Descent Begins",
+          "order": 6,
+          "prompt": "Dark instrumental cinematic electronic music, 76 BPM, deep analog synthesizer bass, precise pulsing arpeggios and restrained electronic percussion. Steady descending harmonic progression, gradually darkening textures, controlled intensity, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_06_the_descent_begins/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/fbc5fc69-4654-1572-911d-665e5c39d65c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/fbc5fc69-4654-1572-911d-665e5c39d65c.flac"
+                }
+              ],
+              "filename": "fbc5fc69-4654-1572-911d-665e5c39d65c"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_06_the_descent_begins/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/71c65c71-c9cb-d028-89dd-e105c570f8f1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/71c65c71-c9cb-d028-89dd-e105c570f8f1.flac"
+                }
+              ],
+              "filename": "71c65c71-c9cb-d028-89dd-e105c570f8f1"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_06_the_descent_begins/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/32c1be75-220b-7229-a669-32ca287de0c2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_06_the_descent_begins/32c1be75-220b-7229-a669-32ca287de0c2.flac"
+                }
+              ],
+              "filename": "32c1be75-220b-7229-a669-32ca287de0c2"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_07_pressure_against_the_body/c847b4b8ef2dace7",
+          "title": "Track 07 Pressure Against The Body",
+          "order": 7,
+          "prompt": "Intense instrumental modern string orchestra, 88 BPM, low cellos and double basses, tightly layered violins and violas. Repeated rhythmic figures, close dissonant harmonies, increasing dynamic pressure, relentless steady pulse, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_07_pressure_against_the_body/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/8622a86a-bc7f-9da0-b243-29e1a8cc1d86.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/8622a86a-bc7f-9da0-b243-29e1a8cc1d86.flac"
+                }
+              ],
+              "filename": "8622a86a-bc7f-9da0-b243-29e1a8cc1d86"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_07_pressure_against_the_body/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/c6013f61-d23f-fdd1-7ef1-2dfa6e926e35.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/c6013f61-d23f-fdd1-7ef1-2dfa6e926e35.flac"
+                }
+              ],
+              "filename": "c6013f61-d23f-fdd1-7ef1-2dfa6e926e35"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_07_pressure_against_the_body/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/52d392d9-e3e2-39a8-acdf-621dd181f003.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_07_pressure_against_the_body/52d392d9-e3e2-39a8-acdf-621dd181f003.flac"
+                }
+              ],
+              "filename": "52d392d9-e3e2-39a8-acdf-621dd181f003"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_08_where_the_light_disappears/c832f480a36fdcea",
+          "title": "Track 08 Where The Light Disappears",
+          "order": 8,
+          "prompt": "Atmospheric instrumental ambient electronic music, 58 BPM, deep sustained synthesizer tones, slowly evolving harmonic layers and soft sub-bass pulses. Sparse descending melody, vast spatial reverb, restrained dark texture, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_08_where_the_light_disappears/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/1fb3f17d-fa5c-8ccd-7585-e0c76d213986.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/1fb3f17d-fa5c-8ccd-7585-e0c76d213986.flac"
+                }
+              ],
+              "filename": "1fb3f17d-fa5c-8ccd-7585-e0c76d213986"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_08_where_the_light_disappears/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/57c4b51e-9fc0-a3cc-e266-35dbeb0c3b89.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/57c4b51e-9fc0-a3cc-e266-35dbeb0c3b89.flac"
+                }
+              ],
+              "filename": "57c4b51e-9fc0-a3cc-e266-35dbeb0c3b89"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_08_where_the_light_disappears/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/84b52f4b-456e-45b1-11f0-56e1020a5642.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_08_where_the_light_disappears/84b52f4b-456e-45b1-11f0-56e1020a5642.flac"
+                }
+              ],
+              "filename": "84b52f4b-456e-45b1-11f0-56e1020a5642"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_09_the_depth_no_one_has_reached/09882595fb97baac",
+          "title": "Track 09 The Depth No One Has Reached",
+          "order": 9,
+          "prompt": "Majestic instrumental contemporary orchestral music, 72 BPM, expressive solo violin, deep cellos, rich French horns and sustained strings. Wide melodic intervals, slowly rising harmonic tension, powerful restrained crescendo, profound sense of scale, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/7f1e4ba9-8e8a-9d62-7292-e79308a40ea1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/7f1e4ba9-8e8a-9d62-7292-e79308a40ea1.flac"
+                }
+              ],
+              "filename": "7f1e4ba9-8e8a-9d62-7292-e79308a40ea1"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/3daa43c3-b8b5-98f9-512d-23e5aa2f25ee.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/3daa43c3-b8b5-98f9-512d-23e5aa2f25ee.flac"
+                }
+              ],
+              "filename": "3daa43c3-b8b5-98f9-512d-23e5aa2f25ee"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/b2b7a9e7-d68c-8967-2bcd-a3ac8bddf742.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_09_the_depth_no_one_has_reached/b2b7a9e7-d68c-8967-2bcd-a3ac8bddf742.flac"
+                }
+              ],
+              "filename": "b2b7a9e7-d68c-8967-2bcd-a3ac8bddf742"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_10_one_more_meter/32179b9bcdca7e4c",
+          "title": "Track 10 One More Meter",
+          "order": 10,
+          "prompt": "Tense instrumental minimalist classical music, 104 BPM, insistent piano ostinato, urgent violin repetitions and deep rhythmic cellos. Precise steady pulse, ascending chromatic patterns, accumulating harmonic tension, controlled relentless momentum, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_10_one_more_meter/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/46751fa0-982c-5cff-9c82-4743559c6e94.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/46751fa0-982c-5cff-9c82-4743559c6e94.flac"
+                }
+              ],
+              "filename": "46751fa0-982c-5cff-9c82-4743559c6e94"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_10_one_more_meter/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/31a40ed0-817f-fe15-9c85-38b59f6095db.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/31a40ed0-817f-fe15-9c85-38b59f6095db.flac"
+                }
+              ],
+              "filename": "31a40ed0-817f-fe15-9c85-38b59f6095db"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_10_one_more_meter/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/0dcb725b-fe2f-1d0c-5752-42165b88eb4f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_10_one_more_meter/0dcb725b-fe2f-1d0c-5752-42165b88eb4f.flac"
+                }
+              ],
+              "filename": "0dcb725b-fe2f-1d0c-5752-42165b88eb4f"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_11_the_point_of_no_return/f7c981c199e0d379",
+          "title": "Track 11 The Point Of No Return",
+          "order": 11,
+          "prompt": "Dark instrumental contemporary string music, 64 BPM, expressive solo cello, sustained low strings and trembling high violins. Slow measured pulse, unresolved minor harmonies, dissonant suspensions, long restrained crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_11_the_point_of_no_return/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/7287efc0-1346-0c01-50de-7f6d2e26e933.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/7287efc0-1346-0c01-50de-7f6d2e26e933.flac"
+                }
+              ],
+              "filename": "7287efc0-1346-0c01-50de-7f6d2e26e933"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_11_the_point_of_no_return/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/e09c9e49-a0dd-4c1f-83f1-620009cdbb72.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/e09c9e49-a0dd-4c1f-83f1-620009cdbb72.flac"
+                }
+              ],
+              "filename": "e09c9e49-a0dd-4c1f-83f1-620009cdbb72"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_11_the_point_of_no_return/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/14a2936d-0f36-0509-a36c-ec42b8e928b2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_11_the_point_of_no_return/14a2936d-0f36-0509-a36c-ec42b8e928b2.flac"
+                }
+              ],
+              "filename": "14a2936d-0f36-0509-a36c-ec42b8e928b2"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_12_some_never_returned/cd9d0890a90eb62c",
+          "title": "Track 12 Some Never Returned",
+          "order": 12,
+          "prompt": "Solemn instrumental romantic chamber music, 56 BPM, mournful solo violin, deep cello and soft piano. Long descending melodic phrases, rich minor harmonies, measured rhythmic movement, delicate restrained dynamics, unresolved final cadence, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_12_some_never_returned/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/410300f0-3225-f2f6-5cda-d70379c3f440.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/410300f0-3225-f2f6-5cda-d70379c3f440.flac"
+                }
+              ],
+              "filename": "410300f0-3225-f2f6-5cda-d70379c3f440"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_12_some_never_returned/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/6c463d7c-7f75-5c18-6148-6a9dd956fb75.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/6c463d7c-7f75-5c18-6148-6a9dd956fb75.flac"
+                }
+              ],
+              "filename": "6c463d7c-7f75-5c18-6148-6a9dd956fb75"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_12_some_never_returned/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/2976a1c2-1965-0b7d-b9d6-e234ce3f2215.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_12_some_never_returned/2976a1c2-1965-0b7d-b9d6-e234ce3f2215.flac"
+                }
+              ],
+              "filename": "2976a1c2-1965-0b7d-b9d6-e234ce3f2215"
+            }
+          ]
+        },
+        {
+          "id": "beyond_the_human_depth_record/track_13_the_will_to_return_alive/280f6610fc5d3807",
+          "title": "Track 13 The Will To Return Alive",
+          "order": 13,
+          "prompt": "Powerful instrumental romantic string orchestra, 92 BPM, soaring solo violin, vigorous cellos, warm violas and deep double basses. Strong ascending melody, determined steady pulse, dramatic minor-to-major harmonic development, expansive triumphant crescendo, strings only, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_f822d76054694421/track_13_the_will_to_return_alive/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/e60650d9-4be7-ee46-da88-d1218dba8138.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/e60650d9-4be7-ee46-da88-d1218dba8138.flac"
+                }
+              ],
+              "filename": "e60650d9-4be7-ee46-da88-d1218dba8138"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_13_the_will_to_return_alive/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/74a51f6c-cdc6-617c-4a75-6bb3dc4fcd1a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/74a51f6c-cdc6-617c-4a75-6bb3dc4fcd1a.flac"
+                }
+              ],
+              "filename": "74a51f6c-cdc6-617c-4a75-6bb3dc4fcd1a"
+            },
+            {
+              "id": "studio_batch_f822d76054694421/track_13_the_will_to_return_alive/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794818239.4464862,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/30a2fe9f-472b-8ca4-5ac7-b1547c425435.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-monday/main/studio_batch_f822d76054694421/track_13_the_will_to_return_alive/30a2fe9f-472b-8ca4-5ac7-b1547c425435.flac"
+                }
+              ],
+              "filename": "30a2fe9f-472b-8ca4-5ac7-b1547c425435"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
